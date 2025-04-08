@@ -26,7 +26,7 @@ SECRET_KEY = "django-insecure-8s1ewo6levbe334i2yo_w2!os&lblmg-3yaji59)(z0f+p&zw#
 DEBUG = True
 
 # Allow all hosts
-ALLOWED_HOSTS = ["*"]
+ALLOWED_HOSTS = ["stunning-tribble-gw474v7v6xxfvvx7-8000.app.github.dev", "localhost"]
 
 
 # Application definition
